@@ -15,11 +15,8 @@
   "host_permissions": [
     "https://www.youtube.com/*"
   ],
-  "action": {
-    "default_popup": "popup.html"
-  },
   "content_scripts": [{
     "matches": ["https://www.youtube.com/*"],
-    "js": ["background.js", "popup.js"]
+    "js": ["background.js"]
   }]
 }
