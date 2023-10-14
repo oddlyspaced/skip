@@ -9,3 +9,5 @@ This is not ad blocking as per say, since technically the ad is loaded and shown
 4. Click on "Load unpacked" from top right
 5. Select the folder this repo was cloned/downloaded to
 6. Toggle on the extension if required
+
+### If you are going to use my extension logic anywhere, please try to provide credits to me (@oddlyspaced) wherever possible.
